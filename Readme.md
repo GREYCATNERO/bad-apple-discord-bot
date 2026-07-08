@@ -13,8 +13,8 @@ https://www.python.org/
 
 затем выполните в командной строке:
 
-```bash
-pip install discord.py Pillow opencv-python
+bash
+```pip install discord.py Pillow opencv-python```
 
 Модуль time уже есть в Python, его устанавливать не нужно.
 
